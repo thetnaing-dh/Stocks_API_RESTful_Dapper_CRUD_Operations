@@ -1,0 +1,6 @@
+@RestAPI_Dapper_CRUD_HostAddress = http://localhost:5009
+
+GET {{RestAPI_Dapper_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
